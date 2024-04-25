@@ -38,7 +38,6 @@ ________________________________________________________________________________
    <br>
    <br>
 <h2>Tomada de decisão:</h2>
-<br>
 <h5>Questão 01: *Quantos usuários estão com mensalidades em atraso e qual é o valor total em pendências?</h5>
 - Essa pergunta pode ajudar a identificar potenciais perdas financeiras e orientar estratégias para cobrança e controle de inadimplência, aumentando a receita da biblioteca.
 <br>
