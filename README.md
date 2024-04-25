@@ -57,5 +57,6 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 <br>
 <h5>Questão 05: Qual é o volume de empréstimos de e-books em comparação com os empréstimos de livros físicos ao longo do último trimestre?</h5>
 - Esta pergunta ajuda a monitorar a tendência de preferência dos usuários por e-books em relação aos livros físicos. Com base nesses dados, a biblioteca pode ajustar seu estoque e alocação de recursos para atender às demandas dos usuários, potencialmente reduzindo custos de armazenamento e aumentando a satisfação do usuário.
+<br>
 ___________________________________________________________________________________________
 
