@@ -1,5 +1,23 @@
-INSERT INTO Funcionario (Nome, Cargo, Salario)
-VALUES ('12, 76348, 03/04/1970, abcdefg@gmail.com, Assistente Administrativa, 3.000R$, 123456789-00, 81989898989);
+
+INSERT INTO Eventos (Nome_Evento, Data, Local)
+VALUES ('Semana Cultural', '2024-08-15', 'Auditório Principal');
+
+INSERT INTO Espacos (Nome_Espaco, Capacidade, Disponibilidade)
+VALUES ('Sala de Reuniões', 20, 'Disponível');
+
+
+INSERT INTO Livro (Titulo, Autor, Ano_Publicacao, Qtd_Exemplares)
+VALUES ('O Senhor dos Anéis', 'J.R.R. Tolkien', 1954, 10);
+
+INSERT INTO Aluno (Nome, Ano_Serie, CPF, Data_Nascimento)
+VALUES ('Pedro Oliveira', '2ª Ensino Médio', '123.456.789-00', '2006-03-20');
+
+INSERT INTO Reserva (ID_Espaco, ID_Aluno, Data_Reserva, Hora_Inicio, Hora_Fim)
+VALUES (3, 5, '2024-09-10', '14:00:00', '16:00:00');
+
+
+INSERT INTO Disciplina (Nome_Disciplina, Carga_Horaria, Tipo)
+VALUES ('Programação Avançada', 60, Eletiva);
 
 UPDATE Professor
 SET Endereco = 'Rua do Príncipe, 001'
@@ -32,12 +50,8 @@ UPDATE Bibliotecario
 SET Id_Funcao = 'Coordenador'
 WHERE ID_Func = 12313;
 
-
 DELETE FROM Aluno
 WHERE Nome = 'João Santos';
-
-INSERT INTO Disciplina (Nome_Disciplina, Carga_Horaria, Tipo)
-VALUES ('Programação Avançada', 60, Eletiva);
 
 UPDATE Empréstimo
 SET Status = 'Devolvido'
