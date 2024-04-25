@@ -29,10 +29,6 @@ ________________________________________________________________________________
 # Projeto Feito:
 
  Feito com BRMW, é um modelo relacional de um sistema de uma Escola-Livraria. Com o DML, o DDL e o TD incluídos a pedido do professor.
-
-![_Black and Green Futuristic Technology LinkedIn Banner (1)](https://static.vecteezy.com/ti/vetor-gratis/p1/3707452-biblioteca-escola-interior-com-alunos-gratis-vetor.jpg)
-
- 
  <br>
  <br>
  Existem -- tabelas, especificadas logo abaixo:
@@ -42,18 +38,24 @@ ________________________________________________________________________________
    <br>
    <br>
 <h2>Tomada de decisão:</h2>
-<h5>Questão 01: *Quantos usuários estão com mensalidades em atraso e qual é o valor total em pendências?</h5>
+<h5>Questão 01: Quantos usuários estão com mensalidades em atraso e qual é o valor total em pendências?</h5>
 - Essa pergunta pode ajudar a identificar potenciais perdas financeiras e orientar estratégias para cobrança e controle de inadimplência, aumentando a receita da biblioteca.
 <br>
 <br>
-<h5>Questão 02: *Qual é a taxa de conversão de usuários visitantes em usuários registrados?</h5>
+<h5>Questão 02: Qual é a taxa de conversão de usuários visitantes em usuários registrados?</h5>
 - Essa pergunta pode ajudar a biblioteca a entender a eficácia de suas estratégias de marketing e incentivo à inscrição de novos usuários. Identificar os pontos de entrada mais eficazes para novos usuários pode aumentar o número total de usuários registrados e potencialmente aumentar a receita da biblioteca.
 a experiência de compra em cada canal. Essas informações são essenciais para otimizar os investimentos em marketing e vendas, direcionando recursos para os canais mais rentáveis e eficazes.
 <br>
 <br>
-<h5>Quais canais de venda (online, loja física, telemarketing, marketplace, etc.) geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio? Avaliando o custo por aquisição, a taxa de conversão, o tempo médio de compra e a satisfação do cliente por canal.</h5>
+<h5>Questão 03: Quais canais de venda (online, loja física, telemarketing, marketplace, etc.) geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio? Avaliando o custo por aquisição, a taxa de conversão, o tempo médio de compra e a satisfação do cliente por canal.</h5>
 - Essa pergunta visa entender quais são os canais de vendas mais eficazes para o negócio, levando em consideração diversos aspectos, como o volume de vendas gerado, a qualidade dos leads obtidos, a fidelidade dos clientes conquistados, o custo por aquisição de clientes em cada canal, a taxa de conversão de leads em clientes, o tempo médio que os clientes levam para realizar uma compra e a satisfação do cliente com 
-
-<h5>Quais são os livros mais populares cadastrados no sistema de sebo e-commerce, e qual é o volume de vendas associado a cada um?</h5>
+<br>
+<br>
+<h5>Questão 04: Quais são os livros mais populares cadastrados no sistema de sebo e-commerce, e qual é o volume de vendas associado a cada um?</h5>
 - Ao identificar os livros mais populares e suas vendas associadas, a equipe de marketing pode ajustar suas estratégias de promoção e estoque, concentrando-se nos produtos com maior potencial de vendas, potencialmente aumentando a receita proveniente do e-commerce.
+<br>
+<br>
+<h5>Questão 05: Qual é o volume de empréstimos de e-books em comparação com os empréstimos de livros físicos ao longo do último trimestre?</h5>
+- Esta pergunta ajuda a monitorar a tendência de preferência dos usuários por e-books em relação aos livros físicos. Com base nesses dados, a biblioteca pode ajustar seu estoque e alocação de recursos para atender às demandas dos usuários, potencialmente reduzindo custos de armazenamento e aumentando a satisfação do usuário.
+___________________________________________________________________________________________
 
