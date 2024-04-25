@@ -29,6 +29,10 @@ ________________________________________________________________________________
 # Projeto Feito:
 
  Feito com BRMW, é um modelo relacional de um sistema de uma Escola-Livraria. Com o DML, o DDL e o TD incluídos a pedido do professor.
+
+![_Black and Green Futuristic Technology LinkedIn Banner (1)](https://static.vecteezy.com/ti/vetor-gratis/p1/3707452-biblioteca-escola-interior-com-alunos-gratis-vetor.jpg)
+
+ 
  <br>
  <br>
  Existem -- tabelas, especificadas logo abaixo:
