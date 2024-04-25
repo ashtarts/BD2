@@ -18,7 +18,7 @@ Tomada de Decisão (10%):O analista da equipe deve elaborar pelo menos 5 pergunt
 Entrega(5%): Linkdo githubvia teams. No githubdeve conter o modelo relacional final, o código DDL, DML e as perguntas para tomada de decisão. 
 <br>
 <br>
-Um readmecom uma breve descrição do que foi feito deve estar preenchido.
+Um readme com uma breve descrição do que foi feito deve estar preenchido.
 <br>
 <br>
 Requisitos adicionais(40%): irá ser considerado o que for feito além do requerimento mínimo esperado.
@@ -35,4 +35,17 @@ ________________________________________________________________________________
 <br>
 <br>
 1. Funcionário; 2. Professor; 3. Trabalha em; 4. Departamento; 5. Ensina; 6. Disciplina; 7. Faz Parte; 8. Escola; 9. Eventos; 10. Organiza; 11. Reserva; 12. Espaços; 13. Cantina; 14. Tem; 15. Parcerias; 16. Reserva; 17. Sala_lab; 18. Cursa; 19. Extracurricular; 20. Aluno; 21. Estuda; 22. Paga; 23. Taxas; 24. Mensalidade; 25. Aluguel de Espaço; 26.  Venda de Produtos; 27. Entrada de dinheiro; 28. Finanças; 29. Multa; 30. Biblioteca; 31. Possui; 32. Bibliotecário; 33. Coordena; 34. Sebo E-commerce; 35. Cadastra; 36. Livro. 37; E-book; 38. Reserva; 39. Contem; 40. Estoque; 41. Midia; 42. Aplica; 43. Efetua; 44. Empréstimo; 45. Checa; 46. Adiciona; 47. Doação; 48. Implica; 49. Promoções; 50. Devolução; 51. Participa; 52. Usuário;
+   <br>
+   <br>
+<h2>Tomada de decisão:</h2>
+<br>
+<br>
+<h5>Questão 01: *Quantos usuários estão com mensalidades em atraso e qual é o valor total em pendências?</h5>
+- Essa pergunta pode ajudar a identificar potenciais perdas financeiras e orientar estratégias para cobrança e controle de inadimplência, aumentando a receita da biblioteca.
+<br>
+<br>
+<h5>Questão 02: *Qual é a taxa de conversão de usuários visitantes em usuários registrados?</h5>
+- Essa pergunta pode ajudar a biblioteca a entender a eficácia de suas estratégias de marketing e incentivo à inscrição de novos usuários. Identificar os pontos de entrada mais eficazes para novos usuários pode aumentar o número total de usuários registrados e potencialmente aumentar a receita da biblioteca.
+
+
 
