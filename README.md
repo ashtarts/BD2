@@ -44,6 +44,11 @@ ________________________________________________________________________________
 <br>
 <h5>Questão 02: *Qual é a taxa de conversão de usuários visitantes em usuários registrados?</h5>
 - Essa pergunta pode ajudar a biblioteca a entender a eficácia de suas estratégias de marketing e incentivo à inscrição de novos usuários. Identificar os pontos de entrada mais eficazes para novos usuários pode aumentar o número total de usuários registrados e potencialmente aumentar a receita da biblioteca.
+a experiência de compra em cada canal. Essas informações são essenciais para otimizar os investimentos em marketing e vendas, direcionando recursos para os canais mais rentáveis e eficazes.
+<br>
+<br>
+<h5>Quais canais de venda (online, loja física, telemarketing, marketplace, etc.) geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio? Avaliando o custo por aquisição, a taxa de conversão, o tempo médio de compra e a satisfação do cliente por canal.</h5>
+- Essa pergunta visa entender quais são os canais de vendas mais eficazes para o negócio, levando em consideração diversos aspectos, como o volume de vendas gerado, a qualidade dos leads obtidos, a fidelidade dos clientes conquistados, o custo por aquisição de clientes em cada canal, a taxa de conversão de leads em clientes, o tempo médio que os clientes levam para realizar uma compra e a satisfação do cliente com 
 
 
 
