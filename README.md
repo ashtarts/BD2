@@ -58,5 +58,24 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 <h5>Questão 05: Qual é o volume de empréstimos de e-books em comparação com os empréstimos de livros físicos ao longo do último trimestre?</h5>
 - Esta pergunta ajuda a monitorar a tendência de preferência dos usuários por e-books em relação aos livros físicos. Com base nesses dados, a biblioteca pode ajustar seu estoque e alocação de recursos para atender às demandas dos usuários, potencialmente reduzindo custos de armazenamento e aumentando a satisfação do usuário.
 <br>
+<br>
+<h5>Questão 06: Qual é o perfil demográfico dos usuários mais frequentes da biblioteca (idade, gênero, localização)?</h5>
+- Compreender o perfil demográfico dos usuários pode ajudar a biblioteca a personalizar suas ofertas e serviços de acordo com as necessidades e preferências específicas de cada segmento, aumentando a satisfação do usuário e potencialmente atraindo novos públicos.
+<br>
+<br>
+<h5>Questão 07: Qual é o índice de satisfação dos usuários com os serviços prestados pela biblioteca, e quais são os principais pontos de feedback positivo e negativo?</h5>
+- Monitorar a satisfação dos usuários e identificar os pontos fortes e fracos dos serviços oferecidos pela biblioteca pode direcionar esforços para melhorias contínuas, aumentando a fidelidade dos usuários e fortalecendo a reputação da biblioteca.
+<br>
+<br>
+<h5>Questão 08: Quais são os períodos de maior e menor demanda por serviços da biblioteca ao longo do ano?</h5>
+- Identificar os períodos de pico e de baixa demanda pode ajudar na alocação eficiente de recursos humanos e materiais, garantindo que a biblioteca esteja preparada para atender às necessidades dos usuários durante os momentos de maior fluxo de visitantes e otimizando os custos durante os períodos de menor atividade.
+<br>
+<br>
+<h5>Questão 09: Qual é a taxa de retenção de usuários ao longo do tempo e quais são os principais motivos para a saída?</h5>
+- Compreender a taxa de retenção de usuários e os motivos que levam à saída pode orientar estratégias para aumentar a fidelidade dos usuários, oferecendo incentivos ou melhorando os serviços para mitigar os problemas identificados.
+<br>
+<br>
+<h5>Questão 10: Como a biblioteca está se posicionando em relação às tendências tecnológicas emergentes no setor, como inteligência artificial, realidade virtual ou serviços de streaming de conteúdo?</h5>
+- Avaliar o nível de adoção de tecnologias emergentes pode ajudar a biblioteca a manter-se relevante e competitiva no mercado, oferecendo serviços inovadores que atendam às expectativas dos usuários modernos e antecipando as futuras demandas do mercado.
 ___________________________________________________________________________________________
 
