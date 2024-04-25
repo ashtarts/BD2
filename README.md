@@ -1,4 +1,4 @@
-# Projeto de BDpara a “EducaLivros Online”
+# Projeto de BD para a “EducaLivros Online”
 
 Objetivo do Projeto: O objetivo do projeto é projetar e implementar um banco de dados que atenda às necessidades multifacetadas da empresa. Deve ser agrupado pelo menos dois dos três DER distintos elaborados no projeto anterior. O segundo projeto inclui:
 <br>
