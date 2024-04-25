@@ -50,5 +50,6 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 <h5>Quais canais de venda (online, loja física, telemarketing, marketplace, etc.) geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio? Avaliando o custo por aquisição, a taxa de conversão, o tempo médio de compra e a satisfação do cliente por canal.</h5>
 - Essa pergunta visa entender quais são os canais de vendas mais eficazes para o negócio, levando em consideração diversos aspectos, como o volume de vendas gerado, a qualidade dos leads obtidos, a fidelidade dos clientes conquistados, o custo por aquisição de clientes em cada canal, a taxa de conversão de leads em clientes, o tempo médio que os clientes levam para realizar uma compra e a satisfação do cliente com 
 
-
+<h5>Quais são os livros mais populares cadastrados no sistema de sebo e-commerce, e qual é o volume de vendas associado a cada um?</h5>
+- Ao identificar os livros mais populares e suas vendas associadas, a equipe de marketing pode ajustar suas estratégias de promoção e estoque, concentrando-se nos produtos com maior potencial de vendas, potencialmente aumentando a receita proveniente do e-commerce.
 
