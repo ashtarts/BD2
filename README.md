@@ -31,7 +31,7 @@ ________________________________________________________________________________
  Feito com BRMW, é um modelo relacional de um sistema de uma Escola-Livraria. Com o DML, o DDL e o TD incluídos a pedido do professor.
  <br>
  <br>
- Existem -- tabelas, especificadas logo abaixo:
+ Existem 52 tabelas, especificadas logo abaixo:
 <br>
 <br>
 1. Funcionário; 2. Professor; 3. Trabalha em; 4. Departamento; 5. Ensina; 6. Disciplina; 7. Faz Parte; 8. Escola; 9. Eventos; 10. Organiza; 11. Reserva; 12. Espaços; 13. Cantina; 14. Tem; 15. Parcerias; 16. Reserva; 17. Sala_lab; 18. Cursa; 19. Extracurricular; 20. Aluno; 21. Estuda; 22. Paga; 23. Taxas; 24. Mensalidade; 25. Aluguel de Espaço; 26.  Venda de Produtos; 27. Entrada de dinheiro; 28. Finanças; 29. Multa; 30. Biblioteca; 31. Possui; 32. Bibliotecário; 33. Coordena; 34. Sebo E-commerce; 35. Cadastra; 36. Livro. 37; E-book; 38. Reserva; 39. Contem; 40. Estoque; 41. Midia; 42. Aplica; 43. Efetua; 44. Empréstimo; 45. Checa; 46. Adiciona; 47. Doação; 48. Implica; 49. Promoções; 50. Devolução; 51. Participa; 52. Usuário;
