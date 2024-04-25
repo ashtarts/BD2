@@ -82,8 +82,7 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 
 <h3>Ana Carolina: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos.</h3>
 
-<h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo DML, pelo TD e organização no github. </h3>
+<h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo teste do DDL, pelo DML e pelo TD. </h3>
 
-<h3>Breno Pedrosa: Ficou responsável pela transformação do modelo conceitual em relacional; e ficou responsável pelo DDL. </h3>
-
+<h3>Breno Pedrosa: Ficou responsável pela transformação do modelo conceitual em relacional; e ficou responsável pelo DDL. Ficou responsável por adicionar as mudanças no projeto sugeridas pelo grupo. </h3>
 
