@@ -5,13 +5,14 @@
 
 <br>
 
-O objetivo do projeto é desenvolver e implementar um banco de dados que seja capaz de abranger as múltiplas facetas das operações da empresa. Para isso, iremos integrar pelo menos dois dos três Diagramas de Entidade-Relacionamento (DER) previamente concebidos. 
+## Objetivo do projeto:
+Desenvolver e implementar um banco de dados que seja capaz de abranger as múltiplas facetas das operações da empresa. Para isso, iremos integrar pelo menos dois dos três Diagramas de Entidade-Relacionamento (DER) previamente concebidos. 
 <br>
 
 <br>
-O segundo projeto inclui:
-<br>
 
+ ### O segundo projeto inclui:
+<br>
 <br>
 Modelagem Relacional(15%): Desenvolver um modelo lógico que represente as entidades do negócio e os relacionamentos entre elas.
 <br>
@@ -36,11 +37,10 @@ Requisitos adicionais(40%): irá ser considerado o que for feito além do requer
 <br>
 Easter Egg ao cliente(10%): Surpreenda o cliente com algo interessante.
 ___________________________________________________________________________________________
-# Projeto Feito:
 
- Com BRMW.
- 
- Criamos um modelo relacional e físico de um sistema de uma Escola-Livraria, e incluimos o DML, o DDL e o TD a pedido do professor da disciplina de Banco de Dados
+### Projeto Feito:
+
+ Com BRMW. Criamos um modelo relacional e físico de um sistema de uma Escola-Livraria, e incluimos o DML, o DDL e o TD a pedido do professor da disciplina de Banco de Dados
  <br>
  <br>
  Existem 52 tabelas no projeto, especificadas logo abaixo:
