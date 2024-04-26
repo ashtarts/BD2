@@ -92,7 +92,8 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 
 # Como foi dividido o projeto entre 3 pessoas:
 
-<h3>Ana Carolina Ribeiro: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos. Além de auxiliar na elaboração das perguntas para Tomada de Decisão </h3>
+<h3>Ana Carolina Ribeiro: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos. Além de auxiliar na elaboração das perguntas para Tomada de Decisão. </h3> 
+<h8>Link git https://github.com/CaroliisRibeiro </h8>
 
 <h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo DDL, pelo DML e pela elaboração das perguntas para a Tomada de Decisão. </h3>
 
