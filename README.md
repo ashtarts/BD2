@@ -1,4 +1,9 @@
 # Projeto de BD para a “EducaLivros Online”
+<br>
+
+![biblio](https://github.com/CaroliisRibeiro/Banco-de-Dados_2024/assets/127742540/b723605b-e1de-42a0-a499-3198332e72b4)
+
+<br>
 
 O objetivo do projeto é desenvolver e implementar um banco de dados que seja capaz de abranger as múltiplas facetas das operações da empresa. Para isso, iremos integrar pelo menos dois dos três Diagramas de Entidade-Relacionamento (DER) previamente concebidos. 
 <br>
