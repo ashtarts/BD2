@@ -1,7 +1,12 @@
 # Projeto de BD para a “EducaLivros Online”
 
-Objetivo do Projeto: O objetivo do projeto é projetar e implementar um banco de dados que atenda às necessidades multifacetadas da empresa. Deve ser agrupado pelo menos dois dos três DER distintos elaborados no projeto anterior. O segundo projeto inclui:
+O objetivo do projeto é desenvolver e implementar um banco de dados que seja capaz de abranger as múltiplas facetas das operações da empresa. Para isso, iremos integrar pelo menos dois dos três Diagramas de Entidade-Relacionamento (DER) previamente concebidos. 
 <br>
+
+<br>
+O segundo projeto inclui:
+<br>
+
 <br>
 Modelagem Relacional(15%): Desenvolver um modelo lógico que represente as entidades do negócio e os relacionamentos entre elas.
 <br>
@@ -28,10 +33,12 @@ Easter Egg ao cliente(10%): Surpreenda o cliente com algo interessante.
 ___________________________________________________________________________________________
 # Projeto Feito:
 
- Feito com BRMW, é um modelo relacional de um sistema de uma Escola-Livraria. Com o DML, o DDL e o TD incluídos a pedido do professor.
+ Com BRMW.
+ 
+ Criamos um modelo relacional e físico de um sistema de uma Escola-Livraria, e incluimos o DML, o DDL e o TD a pedido do professor da disciplina de Banco de Dados
  <br>
  <br>
- Existem 52 tabelas, especificadas logo abaixo:
+ Existem 52 tabelas no projeto, especificadas logo abaixo:
 <br>
 <br>
 1. Funcionário; 2. Professor; 3. Trabalha em; 4. Departamento; 5. Ensina; 6. Disciplina; 7. Faz Parte; 8. Escola; 9. Eventos; 10. Organiza; 11. Reserva; 12. Espaços; 13. Cantina; 14. Tem; 15. Parcerias; 16. Reserva; 17. Sala_lab; 18. Cursa; 19. Extracurricular; 20. Aluno; 21. Estuda; 22. Paga; 23. Taxas; 24. Mensalidade; 25. Aluguel de Espaço; 26.  Venda de Produtos; 27. Entrada de dinheiro; 28. Finanças; 29. Multa; 30. Biblioteca; 31. Possui; 32. Bibliotecário; 33. Coordena; 34. Sebo E-commerce; 35. Cadastra; 36. Livro. 37; E-book; 38. Reserva; 39. Contem; 40. Estoque; 41. Midia; 42. Aplica; 43. Efetua; 44. Empréstimo; 45. Checa; 46. Adiciona; 47. Doação; 48. Implica; 49. Promoções; 50. Devolução; 51. Participa; 52. Usuário;
@@ -80,9 +87,9 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 
 # Como foi dividido o projeto entre 3 pessoas:
 
-<h3>Ana Carolina: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos.</h3>
+<h3>Ana Carolina Ribeiro: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos. Além de auxiliar na elaboração das perguntas para Tomada de Decisão </h3>
 
 <h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo teste do DDL, pelo DML e pelo TD. </h3>
 
-<h3>Breno Pedrosa: Ficou responsável pela transformação do modelo conceitual em relacional; e ficou responsável pelo DDL. Ficou responsável por adicionar as mudanças no projeto sugeridas pelo grupo. </h3>
+<h3>Breno Pedrosa: Ficou responsável pela transformação do modelo conceitual em relacional e pelo DDL. Bem como, responsável por adicionar as mudanças no projeto sugeridas pelo grupo. </h3>
 
