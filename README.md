@@ -11,8 +11,7 @@ Desenvolver e implementar um banco de dados que seja capaz de abranger as múlti
 
 <br>
 
- ### O segundo projeto inclui:
-<br>
+ ## O segundo projeto inclui:
 <br>
 Modelagem Relacional(15%): Desenvolver um modelo lógico que represente as entidades do negócio e os relacionamentos entre elas.
 <br>
@@ -38,7 +37,7 @@ Requisitos adicionais(40%): irá ser considerado o que for feito além do requer
 Easter Egg ao cliente(10%): Surpreenda o cliente com algo interessante.
 ___________________________________________________________________________________________
 
-### Projeto Feito:
+## Projeto Feito:
 
  Com BRMW. Criamos um modelo relacional e físico de um sistema de uma Escola-Livraria, e incluimos o DML, o DDL e o TD a pedido do professor da disciplina de Banco de Dados
  <br>
@@ -90,7 +89,7 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 <h5>Questão 10: Como a biblioteca está se posicionando em relação às tendências tecnológicas emergentes no setor, como inteligência artificial, realidade virtual ou serviços de streaming de conteúdo?</h5>
 - Avaliar o nível de adoção de tecnologias emergentes pode ajudar a biblioteca a manter-se relevante e competitiva no mercado, oferecendo serviços inovadores que atendam às expectativas dos usuários modernos e antecipando as futuras demandas do mercado.
 
-# Como foi dividido o projeto entre 3 pessoas:
+## Como foi dividido o projeto entre 3 pessoas:
 
 <h3>Ana Carolina Ribeiro: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos. Além de auxiliar na elaboração das perguntas para Tomada de Decisão. </h3> 
 <h8>Link git https://github.com/CaroliisRibeiro </h8>
