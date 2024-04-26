@@ -1,7 +1,7 @@
 # Projeto de BD para a “EducaLivros Online”
 <br>
 
-![biblio](https://github.com/CaroliisRibeiro/Banco-de-Dados_2024/assets/127742540/b723605b-e1de-42a0-a499-3198332e72b4)
+![biblio](https://github.com/ashtarts/proj2_BancodeDados/blob/main/biblio.gif)
 
 <br>
 
