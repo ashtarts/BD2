@@ -89,7 +89,7 @@ a experiência de compra em cada canal. Essas informações são essenciais para
 
 <h3>Ana Carolina Ribeiro: Ficou responsável por juntar dois dos Projetos Conceituais e fazer eles funcionarem juntos. Além de auxiliar na elaboração das perguntas para Tomada de Decisão </h3>
 
-<h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo teste do DDL, pelo DML e pelo TD. </h3>
+<h3>Ana Virgínia: Supervisionou a construção do projeto, fornecendo ideias e feedbacks para o resto da equipe. Ficou responsável pelo DDL, pelo DML e pela elaboração das perguntas para a Tomada de Decisão. </h3>
 
 <h3>Breno Pedrosa: Ficou responsável pela transformação do modelo conceitual em relacional e pelo DDL. Bem como, responsável por adicionar as mudanças no projeto sugeridas pelo grupo. </h3>
 
