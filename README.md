@@ -2,6 +2,7 @@
 <br>
 
 ![biblio](https://github.com/ashtarts/proj2_BancodeDados/blob/main/biblio.gif)
+<br>
 O que atualizamos: Demos uma olhada no DML(updates e deletes) e no TD (diminuimos de 10 questões para 6, que o banco de dados pode responder), diminuindo e deletando algumas coisas que não tinham utilidades. Tabela Checa foi deletada
 <br>
 
