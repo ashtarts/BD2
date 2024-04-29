@@ -2,7 +2,7 @@
 <br>
 
 ![biblio](https://github.com/ashtarts/proj2_BancodeDados/blob/main/biblio.gif)
-
+O que atualizamos: Demos uma olhada no DML(updates e deletes) e no TD (diminuimos de 10 questões para 6, que o banco de dados pode responder), diminuindo e deletando algumas coisas que não tinham utilidades. Tabela Checa foi deletada
 <br>
 
 ## Objetivo do projeto:
@@ -50,44 +50,26 @@ ________________________________________________________________________________
    <br>
 <h2>Tomada de decisão:</h2>
 <h5>Questão 01: Quantos usuários estão com mensalidades em atraso e qual é o valor total em pendências?</h5>
-- Essa pergunta pode ajudar a identificar potenciais perdas financeiras e orientar estratégias para cobrança e controle de inadimplência, aumentando a receita da biblioteca.
+- Isso permite à biblioteca identificar potenciais perdas financeiras devido à inadimplência, orientando estratégias para cobrança e controle de inadimplência, o que pode aumentar a receita da biblioteca.<br>
+<br>
+<h5>Questão 02: Quais canais de venda geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio?</h5>
+- Essa pergunta ajuda a entender quais canais de venda são mais eficazes, considerando aspectos como volume de vendas, qualidade dos leads e fidelidade dos clientes. Isso possibilita otimizar investimentos em marketing e vendas, direcionando recursos para os canais mais rentáveis e eficazes.
 <br>
 <br>
-<h5>Questão 02: Qual é a taxa de conversão de usuários visitantes em usuários registrados?</h5>
-- Essa pergunta pode ajudar a biblioteca a entender a eficácia de suas estratégias de marketing e incentivo à inscrição de novos usuários. Identificar os pontos de entrada mais eficazes para novos usuários pode aumentar o número total de usuários registrados e potencialmente aumentar a receita da biblioteca.
-a experiência de compra em cada canal. Essas informações são essenciais para otimizar os investimentos em marketing e vendas, direcionando recursos para os canais mais rentáveis e eficazes.
+<h5>Questão 03: Qual é o volume de empréstimos de e-books em comparação com os empréstimos de livros físicos ao longo do último trimestre?</h5>
+- Monitorar a preferência dos usuários por e-books versus livros físicos ajuda a biblioteca a ajustar seu estoque e alocação de recursos para atender às demandas dos usuários, potencialmente reduzindo custos de armazenamento e aumentando a satisfação do usuário.
 <br>
 <br>
-<h5>Questão 03: Quais canais de venda (online, loja física, telemarketing, marketplace, etc.) geram maior volume de vendas, leads qualificados e clientes fiéis para o seu negócio? Avaliando o custo por aquisição, a taxa de conversão, o tempo médio de compra e a satisfação do cliente por canal.</h5>
-- Essa pergunta visa entender quais são os canais de vendas mais eficazes para o negócio, levando em consideração diversos aspectos, como o volume de vendas gerado, a qualidade dos leads obtidos, a fidelidade dos clientes conquistados, o custo por aquisição de clientes em cada canal, a taxa de conversão de leads em clientes, o tempo médio que os clientes levam para realizar uma compra e a satisfação do cliente com 
+<h5>Questão 04: Qual é o perfil demográfico dos usuários mais frequentes da biblioteca (idade, gênero, localização)?</h5>
+- Compreender o perfil demográfico dos usuários permite personalizar ofertas e serviços de acordo com as necessidades e preferências específicas de cada segmento, aumentando a satisfação do usuário e potencialmente atraindo novos públicos.
 <br>
 <br>
-<h5>Questão 04: Quais são os livros mais populares cadastrados no sistema de sebo e-commerce, e qual é o volume de vendas associado a cada um?</h5>
-- Ao identificar os livros mais populares e suas vendas associadas, a equipe de marketing pode ajustar suas estratégias de promoção e estoque, concentrando-se nos produtos com maior potencial de vendas, potencialmente aumentando a receita proveniente do e-commerce.
+<h5>Questão 05: Quais são os livros mais populares cadastrados no sistema de sebo e-commerce, e qual é o volume de vendas associado a cada um?</h5>
+- Identificar os livros mais populares e suas vendas associadas permite ajustar estratégias de promoção e estoque, concentrando-se nos produtos com maior potencial de vendas, o que pode aumentar a receita proveniente do e-commerce.
 <br>
 <br>
-<h5>Questão 05: Qual é o volume de empréstimos de e-books em comparação com os empréstimos de livros físicos ao longo do último trimestre?</h5>
-- Esta pergunta ajuda a monitorar a tendência de preferência dos usuários por e-books em relação aos livros físicos. Com base nesses dados, a biblioteca pode ajustar seu estoque e alocação de recursos para atender às demandas dos usuários, potencialmente reduzindo custos de armazenamento e aumentando a satisfação do usuário.
-<br>
-<br>
-<h5>Questão 06: Qual é o perfil demográfico dos usuários mais frequentes da biblioteca (idade, gênero, localização)?</h5>
-- Compreender o perfil demográfico dos usuários pode ajudar a biblioteca a personalizar suas ofertas e serviços de acordo com as necessidades e preferências específicas de cada segmento, aumentando a satisfação do usuário e potencialmente atraindo novos públicos.
-<br>
-<br>
-<h5>Questão 07: Qual é o índice de satisfação dos usuários com os serviços prestados pela biblioteca, e quais são os principais pontos de feedback positivo e negativo?</h5>
-- Monitorar a satisfação dos usuários e identificar os pontos fortes e fracos dos serviços oferecidos pela biblioteca pode direcionar esforços para melhorias contínuas, aumentando a fidelidade dos usuários e fortalecendo a reputação da biblioteca.
-<br>
-<br>
-<h5>Questão 08: Quais são os períodos de maior e menor demanda por serviços da biblioteca ao longo do ano?</h5>
-- Identificar os períodos de pico e de baixa demanda pode ajudar na alocação eficiente de recursos humanos e materiais, garantindo que a biblioteca esteja preparada para atender às necessidades dos usuários durante os momentos de maior fluxo de visitantes e otimizando os custos durante os períodos de menor atividade.
-<br>
-<br>
-<h5>Questão 09: Qual é a taxa de retenção de usuários ao longo do tempo e quais são os principais motivos para a saída?</h5>
-- Compreender a taxa de retenção de usuários e os motivos que levam à saída pode orientar estratégias para aumentar a fidelidade dos usuários, oferecendo incentivos ou melhorando os serviços para mitigar os problemas identificados.
-<br>
-<br>
-<h5>Questão 10: Como a biblioteca está se posicionando em relação às tendências tecnológicas emergentes no setor, como inteligência artificial, realidade virtual ou serviços de streaming de conteúdo?</h5>
-- Avaliar o nível de adoção de tecnologias emergentes pode ajudar a biblioteca a manter-se relevante e competitiva no mercado, oferecendo serviços inovadores que atendam às expectativas dos usuários modernos e antecipando as futuras demandas do mercado.
+<h5>Questão 06: Quais são os períodos de maior e menor demanda por serviços da biblioteca ao longo do ano?</h5>
+- Identificar os períodos de pico e baixa demanda permite uma alocação eficiente de recursos humanos e materiais, garantindo que a biblioteca esteja preparada para atender às necessidades dos usuários durante os momentos de maior fluxo de visitantes, otimizando custos durante os períodos de menor atividade.
 
 ## Como foi dividido o projeto entre 3 pessoas:
 
