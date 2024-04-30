@@ -10,7 +10,6 @@ VALUES ('Sala de Aula 101', 30, NULL);
 INSERT INTO Aluno (data-nascimento, endereço, mesnalidade-id, aluno-id, serie, telefone, email, cpf) 
 VALUES ('2000-05-15', 'Rua D, 123', NULL, '2024001', NULL, '987654321', 'maria@email.com', NULL);
 
-
 INSERT INTO Professor (prof-id, email, data-nascimento, telefone, salario) 
 VALUES ('P2024', 'carlos@email.com', '1980-02-10', '999888777', NULL);
 
